@@ -1,0 +1,20 @@
+.card{
+    height: 24rem;
+    width: 26rem;
+    border-radius: 1rem;
+    box-shadow: 0.5rem 0.5rem 1rem .1rem rgba(0, 0, 0, 0.5);
+    margin: 2rem;
+}
+
+.card img{
+    height: 22rem;
+    width: 24rem;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.card img:hover{
+    height: 24rem;
+    width: 26rem;
+    padding: 0;
+}
